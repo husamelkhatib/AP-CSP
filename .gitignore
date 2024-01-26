@@ -1,0 +1,4 @@
+/bin
+/obj
+packages.lock.json
+/ignore
