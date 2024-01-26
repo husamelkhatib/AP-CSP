@@ -1,6 +1,6 @@
 /bin
 /obj
-/packages.lock.json
 /ignore
 /.git
 /main.csproj
+packages.lock.json
