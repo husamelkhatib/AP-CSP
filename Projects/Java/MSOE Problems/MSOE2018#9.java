@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-class Main {
+class MSOE2018Q9 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Enter plain of cipher text: ");
